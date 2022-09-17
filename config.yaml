@@ -1,7 +1,7 @@
 baseurl: /
 languageCode: en-us
 title: Jerry_Xu EE UESTC
-theme: hugo_ivy
+theme: hugo-ivy
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
